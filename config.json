@@ -1,0 +1,4 @@
+﻿{
+    "connectionString": "mongodb://localhost/hire-me-api",
+    "secret": "itQ6tcE4IX"
+}
